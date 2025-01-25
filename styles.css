@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204, 204, 204);
+}
+
+h1{
+	text-align:center;}
+.abc{
+	background-color:white;
+	border:1px solid black;
+	border-radius:10px;
+	
+}
+h2{
+	text-align:center;
+	}
+h3{
+	text-align:center;
+}
+	
+ul{
+	height:100px;
+	width:200%;
+	list-style-type:none;
+	background-color:white;
+	border:1px solid black;
+	border-radius:10px
+	
+	
+}
