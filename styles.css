@@ -5,26 +5,42 @@ body{
 
 h1{
 	text-align:center;}
-.abc{
-	background-color:white;
+.player_one{
+	background-color: rgb(255, 255, 255);
+	padding:1px;
 	border:1px solid black;
 	border-radius:10px;
 	
 }
+.player_two{
+	background-color: rgb(255, 255, 255);
+	padding:1px;
+}
 h2{
 	text-align:center;
 	}
-h3{
+h2{
 	text-align:center;
 }
 	
-ul{
-	height:100px;
-	width:200%;
+li{
+	/* height:100px; */
+	/* width:200%; */
 	list-style-type:none;
 	background-color:white;
-	border:1px solid black;
-	border-radius:10px
-	
-	
+	/* border:1px solid black; */
+	/* border-radius:10px */
 }
+a{
+	text-decoration:none;
+	color:black;
+	text-align:left;
+}
+video{
+	width:100%
+}
+audio{
+	width:100%
+}
+	
+	
